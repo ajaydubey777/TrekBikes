@@ -1,0 +1,9 @@
+F:\Pinnakl\Server Side\Dev Modified\TrekBikes\TrekBikes\bin\Debug\TrekBikes.exe.config
+F:\Pinnakl\Server Side\Dev Modified\TrekBikes\TrekBikes\bin\Debug\Data\bikes.json
+F:\Pinnakl\Server Side\Dev Modified\TrekBikes\TrekBikes\bin\Debug\TrekBikes.exe
+F:\Pinnakl\Server Side\Dev Modified\TrekBikes\TrekBikes\bin\Debug\TrekBikes.pdb
+F:\Pinnakl\Server Side\Dev Modified\TrekBikes\TrekBikes\bin\Debug\Newtonsoft.Json.dll
+F:\Pinnakl\Server Side\Dev Modified\TrekBikes\TrekBikes\bin\Debug\Newtonsoft.Json.xml
+F:\Pinnakl\Server Side\Dev Modified\TrekBikes\TrekBikes\obj\Debug\TrekBikes.csprojResolveAssemblyReference.cache
+F:\Pinnakl\Server Side\Dev Modified\TrekBikes\TrekBikes\obj\Debug\TrekBikes.exe
+F:\Pinnakl\Server Side\Dev Modified\TrekBikes\TrekBikes\obj\Debug\TrekBikes.pdb
